@@ -4,7 +4,7 @@ import LottieView from 'lottie-react-native';
 
 StatusBar.setHidden(true);
 
-const lottieImage = require('./assets/money_mouth_face.json');
+const lottieImage = require('./assets/lottie_airbnb_example_2.json'); //require('./assets/money_mouth_face.json');
 const RE_RENDER_LIMIT = 50;
 const INTERVAL_LIMIT = 1500;
 const LOTTIE_VIEW_COUNT = 12;
